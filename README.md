@@ -1,6 +1,10 @@
 #include <iostream.h>
 using namesapce std;
-main a
+class a
+{
+	int a;
+}
+main
 {
       cout<<"hello world"<<endl;
       return 0;
